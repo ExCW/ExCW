@@ -1,15 +1,15 @@
 # Exponential Consultants Workgroup
 
-## Nosso Propósito
+## Nosso Propósito (MTP)
 
 Impulsionar a criação e transformação de organizações gerando alto impacto na sociedade.
 
 ## As Hipóteses
 
-Nós acreditamos que os conceitos e as práticas relativas às [Organizações Exponenciais](http://exponentialorgs.com) são os norteadores das empresas do futuro.
+Nós acreditamos que os conceitos e as práticas relativas às [Organizações Exponenciais](http://exponentialorgs.com) são os norteadores das empresas de hoje para o futuro.
 
 1. Empreendimentos de qualquer valor ou nível de maturidade podem ser beneficiados pelo uso desses conceitos;
-2. O cenário tecnológico atual com fácial acesso a tecnologias e plataformas é um facilitador na criação de negõcios inovadores com risco pequeno e baixo investimento;
+2. O cenário tecnológico atual com fácil acesso a tecnologias e plataformas é um facilitador na criação de negócios inovadores com risco pequeno e baixo investimento;
 3. O conceito de Organizações Exponenciais é novo e os conhecimentos e recursos de como implementá-las estão dispersos, são proprietários ou ainda não adaptados à realidade Brasileira.
 
 ## A Iniciativa
