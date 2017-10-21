@@ -1,7 +1,5 @@
 # Exponential Consultants Workgroup
 
-{% include toc %}
-
 ## Nosso Propósito (MTP)
 
 Impulsionar a criação e transformação de organizações gerando alto impacto na sociedade.
