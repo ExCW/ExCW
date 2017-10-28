@@ -1,4 +1,4 @@
-# Mudamos de endereço, agora estamos [aqui](excw.gitlab.io). #
+# Mudamos de endereço, agora estamos [aqui](https://excw.gitlab.io). #
 
 ## Exponential Consultants Workgroup
 
